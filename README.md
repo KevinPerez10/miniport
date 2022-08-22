@@ -1,4 +1,4 @@
-# coed34caf9e44ebe72483ba7a
+# Mini Portfolio created using ReactJS
 
 Quick start:
 
